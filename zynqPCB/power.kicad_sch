@@ -23162,7 +23162,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cc9035b")
-		(property "Reference" "U20A"
+		(property "Reference" "U20A1"
 			(at 273.8374 77.3938 0)
 			(effects
 				(font
@@ -24706,7 +24706,7 @@
 		(instances
 			(project "DFTBoard"
 				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-000058508414"
-					(reference "U20A")
+					(reference "U20A1")
 					(unit 1)
 				)
 			)
@@ -25269,7 +25269,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cd16688")
-		(property "Reference" "U20I"
+		(property "Reference" "U20I1"
 			(at 278.9174 156.2862 0)
 			(effects
 				(font
@@ -26813,7 +26813,7 @@
 		(instances
 			(project "DFTBoard"
 				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-000058508414"
-					(reference "U20I")
+					(reference "U20I1")
 					(unit 9)
 				)
 			)

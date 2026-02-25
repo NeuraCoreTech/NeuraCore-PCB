@@ -15608,8 +15608,13 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cd35fbb")
+<<<<<<< HEAD
 		(property "Reference" "U20B"
 			(at 165.1 27.94 0)
+=======
+		(property "Reference" "U20B1"
+			(at 168.91 36.83 0)
+>>>>>>> 235b690fb52702dc6042c666399363926c82e590
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17150,9 +17155,15 @@
 			(uuid "3e4074ef-858c-4d2b-8084-8b5ace402793")
 		)
 		(instances
+<<<<<<< HEAD
 			(project "LCD50"
 				(path "/d778add1-152d-4643-be9d-21e0daf7ee27"
 					(reference "U20B")
+=======
+			(project "DFTBoard"
+				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
+					(reference "U20B1")
+>>>>>>> 235b690fb52702dc6042c666399363926c82e590
 					(unit 2)
 				)
 			)
@@ -17493,8 +17504,13 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ded1a63")
+<<<<<<< HEAD
 		(property "Reference" "U20D"
 			(at 214.63 31.75 0)
+=======
+		(property "Reference" "U20D1"
+			(at 223.52 36.83 0)
+>>>>>>> 235b690fb52702dc6042c666399363926c82e590
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -19035,9 +19051,15 @@
 			(uuid "95f9d418-affc-44c7-9919-8a6235a01831")
 		)
 		(instances
+<<<<<<< HEAD
 			(project "LCD50"
 				(path "/d778add1-152d-4643-be9d-21e0daf7ee27"
 					(reference "U20D")
+=======
+			(project "DFTBoard"
+				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
+					(reference "U20D1")
+>>>>>>> 235b690fb52702dc6042c666399363926c82e590
 					(unit 4)
 				)
 			)
@@ -19052,8 +19074,13 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005defa902")
+<<<<<<< HEAD
 		(property "Reference" "U20E"
 			(at 259.08 31.75 0)
+=======
+		(property "Reference" "U20E1"
+			(at 267.97 36.83 0)
+>>>>>>> 235b690fb52702dc6042c666399363926c82e590
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20594,9 +20621,15 @@
 			(uuid "e7d681ca-d7cb-4528-86cd-94e528b95a97")
 		)
 		(instances
+<<<<<<< HEAD
 			(project "LCD50"
 				(path "/d778add1-152d-4643-be9d-21e0daf7ee27"
 					(reference "U20E")
+=======
+			(project "DFTBoard"
+				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
+					(reference "U20E1")
+>>>>>>> 235b690fb52702dc6042c666399363926c82e590
 					(unit 5)
 				)
 			)
