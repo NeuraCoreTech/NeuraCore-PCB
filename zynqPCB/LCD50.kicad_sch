@@ -17127,7 +17127,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cd35fbb")
-		(property "Reference" "U20B"
+		(property "Reference" "U20B1"
 			(at 168.91 36.83 0)
 			(effects
 				(font
@@ -18671,7 +18671,7 @@
 		(instances
 			(project "DFTBoard"
 				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "U20B")
+					(reference "U20B1")
 					(unit 2)
 				)
 			)
@@ -19180,7 +19180,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ded1a63")
-		(property "Reference" "U20D"
+		(property "Reference" "U20D1"
 			(at 223.52 36.83 0)
 			(effects
 				(font
@@ -20724,7 +20724,7 @@
 		(instances
 			(project "DFTBoard"
 				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "U20D")
+					(reference "U20D1")
 					(unit 4)
 				)
 			)
@@ -20807,7 +20807,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005defa902")
-		(property "Reference" "U20E"
+		(property "Reference" "U20E1"
 			(at 267.97 36.83 0)
 			(effects
 				(font
@@ -22351,7 +22351,7 @@
 		(instances
 			(project "DFTBoard"
 				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "U20E")
+					(reference "U20E1")
 					(unit 5)
 				)
 			)

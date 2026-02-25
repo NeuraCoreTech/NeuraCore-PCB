@@ -15310,7 +15310,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cd32d26")
-		(property "Reference" "U20F"
+		(property "Reference" "U20F1"
 			(at 235.7374 83.7438 0)
 			(effects
 				(font
@@ -16854,7 +16854,7 @@
 		(instances
 			(project "DFTBoard"
 				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005ca1abae"
-					(reference "U20F")
+					(reference "U20F1")
 					(unit 6)
 				)
 			)
