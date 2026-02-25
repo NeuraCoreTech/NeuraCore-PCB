@@ -1616,897 +1616,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "arduino:Arduino_Uno_Shield_Simplified"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "XA"
-				(at 2.54 0 90)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "Arduino_Uno_Shield_Simplified"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 45.72 95.25 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://store.arduino.cc/arduino-uno-rev3"
-				(at 45.72 95.25 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Shield for Arduino Uno"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Arduino MPU Shield"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Arduino_Uno_Shield"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Arduino_Uno_Shield_Simplified_0_0"
-				(rectangle
-					(start -25.4 30.48)
-					(end 25.4 -30.48)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -20.32 19.05) (xy -19.05 19.05) (xy -19.05 16.51) (xy -20.32 16.51)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -20.32 -26.67)
-					(end -12.7 -26.67)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -19.05 17.78) (xy -15.24 17.78)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -19.05 -13.97)
-					(end -12.7 -13.97)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -16.51 26.67) (xy -15.24 26.67) (xy -15.24 24.13) (xy -16.51 24.13)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -15.24 25.4) (xy -13.97 25.4)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -12.7 7.62) (xy -12.7 8.89) (xy -21.59 8.89)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -12.7 -5.08) (xy -12.7 -6.35) (xy -19.05 -6.35)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -12.7 -13.97) (xy -12.7 -15.24)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -12.7 -15.24) (xy -12.7 -16.51)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -12.7 -26.67) (xy -12.7 -24.13)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 16.51) (xy 12.7 26.67) (xy 16.51 26.67)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 8.89) (xy 12.7 -1.27) (xy 20.32 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 16.51 -24.13)
-					(end 16.51 -26.67)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 16.51 -25.4)
-					(end 13.97 -25.4)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 17.78 -24.13)
-					(end 16.51 -24.13)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 17.78 -26.67)
-					(end 16.51 -26.67)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "Serial"
-					(at -12.7 25.4 900)
-					(effects
-						(font
-							(size 1.524 1.524)
-						)
-					)
-				)
-				(text "I²C"
-					(at -12.7 17.78 900)
-					(effects
-						(font
-							(size 1.524 1.524)
-						)
-					)
-				)
-				(text "Analogue"
-					(at -12.7 1.27 900)
-					(effects
-						(font
-							(size 1.524 1.524)
-						)
-					)
-				)
-				(text "Power"
-					(at -12.7 -20.32 900)
-					(effects
-						(font
-							(size 1.524 1.524)
-						)
-					)
-				)
-				(text "Misc."
-					(at 12.7 -25.4 900)
-					(effects
-						(font
-							(size 1.524 1.524)
-						)
-					)
-				)
-			)
-			(symbol "Arduino_Uno_Shield_Simplified_1_0"
-				(text "GPIO"
-					(at 12.7 12.7 900)
-					(effects
-						(font
-							(size 1.524 1.524)
-						)
-					)
-				)
-			)
-			(symbol "Arduino_Uno_Shield_Simplified_1_1"
-				(pin bidirectional line
-					(at -33.02 26.67 0)
-					(length 7.62)
-					(name "D0_RX0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -33.02 24.13 0)
-					(length 7.62)
-					(name "D1_TX0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional clock
-					(at -33.02 19.05 0)
-					(length 7.62)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -33.02 16.51 0)
-					(length 7.62)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -33.02 8.89 0)
-					(length 7.62)
-					(name "A5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -33.02 6.35 0)
-					(length 7.62)
-					(name "A4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -33.02 3.81 0)
-					(length 7.62)
-					(name "A3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -33.02 1.27 0)
-					(length 7.62)
-					(name "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -33.02 -1.27 0)
-					(length 7.62)
-					(name "A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -33.02 -3.81 0)
-					(length 7.62)
-					(name "A0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -33.02 -6.35 0)
-					(length 7.62)
-					(name "AREF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AREF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -33.02 -13.97 0)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "GND1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -33.02 -16.51 0)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "GND2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -33.02 -19.05 0)
-					(length 7.62)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "GND3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -33.02 -21.59 0)
-					(length 7.62)
-					(name "3.3V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3V3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -33.02 -24.13 0)
-					(length 7.62)
-					(name "5V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5V1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -33.02 -26.67 0)
-					(length 7.62)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 26.67 180)
-					(length 7.62)
-					(name "D2_INT0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 24.13 180)
-					(length 7.62)
-					(name "D3_INT1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 21.59 180)
-					(length 7.62)
-					(name "D4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 19.05 180)
-					(length 7.62)
-					(name "D5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 16.51 180)
-					(length 7.62)
-					(name "D6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 13.97 180)
-					(length 7.62)
-					(name "D7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 11.43 180)
-					(length 7.62)
-					(name "D8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 8.89 180)
-					(length 7.62)
-					(name "D9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 6.35 180)
-					(length 7.62)
-					(name "D10_CS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 3.81 180)
-					(length 7.62)
-					(name "D11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 1.27 180)
-					(length 7.62)
-					(name "D12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 33.02 -1.27 180)
-					(length 7.62)
-					(name "D13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "D13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin open_collector input_low
-					(at 33.02 -24.13 180)
-					(length 7.62)
-					(name "RESET"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "RST1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -26.67 180)
-					(length 7.62)
-					(name "IOREF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "IORF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers
@@ -11875,6 +10984,16 @@
 		)
 		(uuid "a6dfc9a9-f9d5-43aa-ba01-139f9a0a2f4b")
 	)
+	(text "LED 2RGB OUTS REMOVED"
+		(exclude_from_sim no)
+		(at 144.78 96.52 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+		)
+		(uuid "fa2b5244-1b88-4a78-bc23-f073420aaeb3")
+	)
 	(junction
 		(at 163.83 186.69)
 		(diameter 0)
@@ -11898,12 +11017,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35e9d811-4df3-471c-aa93-e5cebc1313ef")
-	)
-	(junction
-		(at 62.23 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b04d968-0248-4bbd-82b5-04b916ccba00")
 	)
 	(junction
 		(at 176.53 176.53)
@@ -11988,6 +11101,14 @@
 		(uuid "0b28f418-d0e3-407e-acc7-28f60f8a675d")
 	)
 	(no_connect
+		(at 163.83 123.19)
+		(uuid "0fa05086-45c0-4137-9803-251c2db02023")
+	)
+	(no_connect
+		(at 160.02 67.31)
+		(uuid "2eae6c27-be82-4e95-9eaf-6f037d881b69")
+	)
+	(no_connect
 		(at 163.83 161.29)
 		(uuid "3c0026b1-97d9-4525-b5fb-d9ace1691d1c")
 	)
@@ -11996,8 +11117,32 @@
 		(uuid "42fc22d4-41c1-4b5b-b893-2a48c2970a47")
 	)
 	(no_connect
+		(at 163.83 120.65)
+		(uuid "50baf408-c159-47f3-9c89-2ce39dce5e04")
+	)
+	(no_connect
+		(at 163.83 67.31)
+		(uuid "5452bcc1-196e-46fd-af8f-d6157cfda47a")
+	)
+	(no_connect
+		(at 163.83 138.43)
+		(uuid "55b73ac0-28bb-4f48-8c5e-a986e0ba11b5")
+	)
+	(no_connect
+		(at 163.83 87.63)
+		(uuid "5802b335-ba52-417e-a7db-8253008fbd54")
+	)
+	(no_connect
+		(at 163.83 97.79)
+		(uuid "5b715336-f999-4bb8-83f2-b187d4ce244b")
+	)
+	(no_connect
 		(at 163.83 44.45)
 		(uuid "5b97473b-cb39-41e5-bf98-462c29f689f3")
+	)
+	(no_connect
+		(at 163.83 64.77)
+		(uuid "606fc73b-5644-4762-be2b-95d2ca3d7555")
 	)
 	(no_connect
 		(at 163.83 59.69)
@@ -12024,8 +11169,20 @@
 		(uuid "928cfb5a-9fad-48c6-bb7e-a3e14890049c")
 	)
 	(no_connect
+		(at 163.83 82.55)
+		(uuid "9603b418-df4c-485f-9bb7-628b20d2352d")
+	)
+	(no_connect
+		(at 163.83 125.73)
+		(uuid "9968a175-b180-4cd6-9aeb-3ab78f0f9079")
+	)
+	(no_connect
 		(at 163.83 52.07)
 		(uuid "9d8adbe2-3289-4694-bfac-2910e074afb4")
+	)
+	(no_connect
+		(at 163.83 153.67)
+		(uuid "a1ada766-f26a-42cd-b50a-5b40a9cb6cfd")
 	)
 	(no_connect
 		(at 163.83 163.83)
@@ -12036,12 +11193,24 @@
 		(uuid "a9946bb2-e9ca-41c7-b6dc-f73095804dac")
 	)
 	(no_connect
+		(at 160.02 64.77)
+		(uuid "a99fdbe3-65a2-46c9-8e18-fe1919e79181")
+	)
+	(no_connect
 		(at 163.83 72.39)
 		(uuid "ac25b8b0-350c-4a2a-aeef-71f2e515ea06")
 	)
 	(no_connect
+		(at 163.83 135.89)
+		(uuid "afdabb41-85c7-43b8-ae01-fc80c06b48e5")
+	)
+	(no_connect
 		(at 163.83 95.25)
 		(uuid "b183dbce-65ec-43f4-ba10-c08ab1ce5673")
+	)
+	(no_connect
+		(at 163.83 80.01)
+		(uuid "c3d06b64-8afd-4d31-8ede-028d78219723")
 	)
 	(no_connect
 		(at 163.83 57.15)
@@ -12058,6 +11227,10 @@
 	(no_connect
 		(at 163.83 54.61)
 		(uuid "f191e319-3517-4555-ac82-8f97e692c7c7")
+	)
+	(no_connect
+		(at 163.83 128.27)
+		(uuid "f7620388-23a4-4fc0-88f3-5e96f57e91cd")
 	)
 	(wire
 		(pts
@@ -12098,16 +11271,6 @@
 			(type default)
 		)
 		(uuid "0c6de69b-9356-4874-87d1-bcf8e25b79d3")
-	)
-	(wire
-		(pts
-			(xy 62.23 76.2) (xy 64.77 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ea70f95-d17a-4b01-9e85-88ff6b7f9f87")
 	)
 	(wire
 		(pts
@@ -12281,26 +11444,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 76.2) (xy 62.23 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50a11820-e0ab-4a11-8b86-06abf4f0669e")
-	)
-	(wire
-		(pts
-			(xy 60.96 76.2) (xy 62.23 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "523f1bfb-7a92-470f-82a8-dcd27123cdf4")
-	)
-	(wire
-		(pts
 			(xy 24.13 173.99) (xy 25.4 173.99)
 		)
 		(stroke
@@ -12461,16 +11604,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 78.74) (xy 64.77 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "983f96eb-31d2-4bd1-b656-39236f211085")
-	)
-	(wire
-		(pts
 			(xy 182.88 184.15) (xy 182.88 186.69)
 		)
 		(stroke
@@ -12518,16 +11651,6 @@
 			(type default)
 		)
 		(uuid "aaa82224-9b65-4419-bd38-9023622510e9")
-	)
-	(wire
-		(pts
-			(xy 62.23 73.66) (xy 62.23 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b60acf55-4ee6-4117-a9ad-ddbd7059c6e6")
 	)
 	(wire
 		(pts
@@ -12618,16 +11741,6 @@
 			(type default)
 		)
 		(uuid "d6eac308-8f94-4e74-b2cc-669d6facde6a")
-	)
-	(wire
-		(pts
-			(xy 64.77 73.66) (xy 62.23 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d90c19a1-f358-48b0-a0f8-30232cb24819")
 	)
 	(wire
 		(pts
@@ -12869,46 +11982,6 @@
 			)
 		)
 	)
-	(global_label "LCD_D22"
-		(shape bidirectional)
-		(at 130.81 60.96 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "0b9990d9-f5fe-4ae2-aba8-0e9b66b74e90")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D15"
-		(shape bidirectional)
-		(at 130.81 43.18 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "0f0836e5-c8c4-424c-b8b4-d8753a3e61cc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HDMI_R_P"
 		(shape input)
 		(at 86.36 160.02 90)
@@ -13109,46 +12182,6 @@
 			)
 		)
 	)
-	(global_label "LCD_D1"
-		(shape bidirectional)
-		(at 64.77 35.56 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "241d4685-7c5c-4e69-9431-60937310349a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D10"
-		(shape bidirectional)
-		(at 64.77 66.04 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "25813e41-42b3-4796-b63f-1d9146c6b343")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HDMI_G_N"
 		(shape output)
 		(at 163.83 115.57 180)
@@ -13169,26 +12202,6 @@
 			)
 		)
 	)
-	(global_label "ACC_INT2"
-		(shape bidirectional)
-		(at 163.83 67.31 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "2beceb29-0f17-437b-b6bf-dd7dc707e323")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "STATLED_2"
 		(shape output)
 		(at 163.83 90.17 180)
@@ -13201,66 +12214,6 @@
 		(uuid "31865499-ff91-4893-a57c-613688d2f3d6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 163.83 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D16"
-		(shape bidirectional)
-		(at 130.81 45.72 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "3566211a-8344-4243-b7af-fa2d19a5a002")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D19"
-		(shape bidirectional)
-		(at 130.81 53.34 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "3cf28c51-9a51-45e4-adfb-e20bfc375848")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D14"
-		(shape bidirectional)
-		(at 130.81 40.64 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "3d74346a-c951-4221-80b0-fecb32af3714")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13321,26 +12274,6 @@
 		(uuid "40134b23-7d15-4f3f-a15e-12cf152ce4f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 163.83 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED_2R_CTRL"
-		(shape output)
-		(at 163.83 80.01 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "407c97a3-5663-41cf-a0dc-93571881b26b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13429,26 +12362,6 @@
 			)
 		)
 	)
-	(global_label "LCD_D6"
-		(shape bidirectional)
-		(at 163.83 125.73 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "4fe202ef-990c-43fd-99f2-b6b3eca43581")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HDMI_B_N"
 		(shape input)
 		(at 78.74 160.02 90)
@@ -13489,26 +12402,6 @@
 			)
 		)
 	)
-	(global_label "LCD_D11"
-		(shape bidirectional)
-		(at 130.81 33.02 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "5813fee7-329d-484b-b0fd-9cd41aecf7b1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "I2C33_HDMI_SCLK"
 		(shape input)
 		(at 81.28 119.38 180)
@@ -13521,126 +12414,6 @@
 		(uuid "59ce1bc8-332a-438c-aac2-ced36457af6c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 81.28 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D5"
-		(shape bidirectional)
-		(at 163.83 128.27 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "633d3ad1-5e01-4c3d-91dc-108791421beb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D9"
-		(shape bidirectional)
-		(at 163.83 123.19 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "66725db7-10e2-4758-b51c-323968b73f6e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D7"
-		(shape bidirectional)
-		(at 163.83 135.89 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "66b12f1d-8dbb-4ba4-a7a6-c6f3940e8ade")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D23"
-		(shape bidirectional)
-		(at 163.83 120.65 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "6e1e2429-f522-4323-a5c7-efeebf0e48f9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D4"
-		(shape bidirectional)
-		(at 64.77 50.8 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "6f68d577-099d-47ee-a687-def155746f4f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D8"
-		(shape bidirectional)
-		(at 163.83 138.43 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "70130c49-b083-4e5e-9fa6-2da607c6fb95")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13681,26 +12454,6 @@
 		(uuid "789d3581-2022-4fd1-ad2e-ada04db980ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 163.83 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D12"
-		(shape bidirectional)
-		(at 130.81 35.56 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "78fe4790-47da-4789-b284-f32740b76f56")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13769,26 +12522,6 @@
 			)
 		)
 	)
-	(global_label "LCD_D5"
-		(shape bidirectional)
-		(at 64.77 53.34 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "7f3b2ac9-1e40-4bf4-8871-d85dba581c60")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HDMI_HEAC_N"
 		(shape bidirectional)
 		(at 114.3 160.02 90)
@@ -13801,26 +12534,6 @@
 		(uuid "835be820-8ebf-4314-b9ce-0225a57e1f92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 114.3 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D23"
-		(shape bidirectional)
-		(at 130.81 83.82 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "84d9b68d-6e6c-45aa-aa69-e18ca7b27bd2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13849,46 +12562,6 @@
 			)
 		)
 	)
-	(global_label "LCD_D4"
-		(shape bidirectional)
-		(at 163.83 153.67 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "97158822-ddd6-4013-986b-297edf5239fa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D17"
-		(shape bidirectional)
-		(at 130.81 48.26 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "972b9d2b-b0ad-452d-81b4-97d03fee2eff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HDMI_CLK_P"
 		(shape input)
 		(at 91.44 160.02 90)
@@ -13909,106 +12582,6 @@
 			)
 		)
 	)
-	(global_label "LCD_D21"
-		(shape bidirectional)
-		(at 130.81 58.42 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "98f2913f-3c13-42e3-9b06-450a7334d550")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D13"
-		(shape bidirectional)
-		(at 130.81 38.1 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "998dca5d-b572-4b50-a5fe-4bf3e2c44ade")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D9"
-		(shape bidirectional)
-		(at 64.77 63.5 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "9afde3b6-91f1-4c50-858e-5b8db167245a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RF_IRQ"
-		(shape bidirectional)
-		(at 163.83 87.63 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "aad15f18-f004-4ca4-b710-ec5d56847090")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D2"
-		(shape bidirectional)
-		(at 64.77 40.64 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "abbf9981-ffa0-47fd-84ba-5f4adc29a960")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HDMI_CEC"
 		(shape bidirectional)
 		(at 163.83 166.37 180)
@@ -14021,86 +12594,6 @@
 		(uuid "ac980e64-5f77-4a91-b61d-e044a4918f8f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 163.83 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ACC_INT1"
-		(shape bidirectional)
-		(at 163.83 64.77 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "b0808514-c1ed-4050-a489-a6811625c22b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D8"
-		(shape bidirectional)
-		(at 64.77 60.96 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "b1224a76-427f-436a-a1be-e93d0c9870eb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D6"
-		(shape bidirectional)
-		(at 64.77 55.88 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "b35160a4-8446-4a6a-afa3-25c56e7cb63a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D7"
-		(shape bidirectional)
-		(at 64.77 58.42 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "b43b249c-fca5-4c57-ae14-173ec0f1d3fe")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14189,26 +12682,6 @@
 			)
 		)
 	)
-	(global_label "LED_2G_CTRL"
-		(shape output)
-		(at 163.83 97.79 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "dbb61117-2753-478f-aeeb-765e19b90843")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "I2C5_HDMI_SCLK"
 		(shape input)
 		(at 135.89 127 270)
@@ -14221,26 +12694,6 @@
 		(uuid "dd8b388e-e80f-4d38-b73b-5f82d54e23d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 135.89 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D0"
-		(shape bidirectional)
-		(at 64.77 33.02 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "df161540-fe0b-49bb-94c4-def899d96f19")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14281,86 +12734,6 @@
 		(uuid "e337fbe4-5d01-4486-a9d6-3b134095b015")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 163.83 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D18"
-		(shape bidirectional)
-		(at 130.81 50.8 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "e387b489-1f4c-4d33-9b44-981a81b0b71a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED_2B_CTRL"
-		(shape output)
-		(at 163.83 82.55 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "f0bb2dbe-8be2-4b1b-be99-c9e2f5f5b241")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.83 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D20"
-		(shape bidirectional)
-		(at 130.81 55.88 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "f3a71b1e-31b4-4303-aff3-ecea54b62548")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_D3"
-		(shape bidirectional)
-		(at 64.77 43.18 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "f98da222-5b73-4ca6-bede-e08c6b9c01d4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18678,192 +17051,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 60.96 76.2 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dbabc3c")
-		(property "Reference" "#PWR0239"
-			(at 54.61 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 57.15 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 60.96 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 60.96 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 60.96 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "82728a01-4cfb-45f2-9a4e-e00f35cb0a1a")
-		)
-		(instances
-			(project ""
-				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "#PWR0239")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 64.77 81.28 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dbd5605")
-		(property "Reference" "#PWR0240"
-			(at 68.58 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 61.214 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9f4e339c-5c85-48f9-a33f-11933f83fcf3")
-		)
-		(instances
-			(project ""
-				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "#PWR0240")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 130.81 86.36 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dccd41b")
-		(property "Reference" "#PWR0241"
-			(at 127 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 134.366 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 130.81 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "08bd914d-f003-4b0c-a8cb-8f9ef730b031")
-		)
-		(instances
-			(project ""
-				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "#PWR0241")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:HDMI_A")
 		(at 96.52 170.18 90)
 		(mirror x)
@@ -20726,74 +18913,6 @@
 				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
 					(reference "U20D")
 					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 64.77 83.82 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005deea165")
-		(property "Reference" "#PWR0242"
-			(at 62.484 83.82 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 62.484 83.82 0)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 83.82 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 83.82 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 64.77 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "189936aa-e17b-4587-a95e-4785deed398d")
-		)
-		(instances
-			(project ""
-				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-000058508414"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "#PWR0242")
-					(unit 1)
 				)
 			)
 		)
@@ -29462,204 +27581,6 @@
 		)
 	)
 	(symbol
-		(lib_id "arduino:Arduino_Uno_Shield_Simplified")
-		(at 97.79 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005e17bc07")
-		(property "Reference" "XA1"
-			(at 97.79 24.4602 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "Arduino_Uno_Shield_Simplified"
-			(at 97.79 27.1526 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "DFTcustom:Arduino_Uno_Shield_Simplified"
-			(at 143.51 -35.56 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://store.arduino.cc/arduino-uno-rev3"
-			(at 143.51 -35.56 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 97.79 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFR" "DNS"
-			(at -31.75 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "-"
-			(at -31.75 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPR" "-"
-			(at -31.75 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPN" "-"
-			(at -31.75 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPURL" "-"
-			(at -31.75 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "SCL"
-			(uuid "ab06763f-98b3-4162-9c54-b5239d8046bc")
-		)
-		(pin "A5"
-			(uuid "0d1056ec-93c1-40b1-882b-2a1d12f8d36a")
-		)
-		(pin "D1"
-			(uuid "25e2583c-f980-497e-8dbc-b5f63edd5a62")
-		)
-		(pin "A2"
-			(uuid "1cc2069c-78c2-4821-b012-28abf78f5057")
-		)
-		(pin "D0"
-			(uuid "8c8ea43a-9e95-4e3e-8c5c-779f0c9db41d")
-		)
-		(pin "SDA"
-			(uuid "f190ae8f-8212-45fe-9dfc-c0a1d8c481d9")
-		)
-		(pin "A4"
-			(uuid "525acdab-564e-4c9d-9656-27d64011860d")
-		)
-		(pin "A3"
-			(uuid "e5a31e7b-e604-4797-9944-22eeefdcb121")
-		)
-		(pin "IORF"
-			(uuid "26dbd734-738e-46b1-ba57-dee644a3e271")
-		)
-		(pin "A1"
-			(uuid "97b0812e-efc0-48d6-8bc8-54c2372a1550")
-		)
-		(pin "3V3"
-			(uuid "98d6170e-1f4d-4863-9ad2-745ee35ce14a")
-		)
-		(pin "AREF"
-			(uuid "82c1bd88-0cc5-4c3b-809d-05f8da8517f2")
-		)
-		(pin "D7"
-			(uuid "149bc119-5f48-45fe-995e-7e98f8310caf")
-		)
-		(pin "5V1"
-			(uuid "d07d73e7-a29f-428c-ab21-3c4478dd047b")
-		)
-		(pin "D6"
-			(uuid "e6125886-ac5b-46f2-8836-b5abafb28044")
-		)
-		(pin "D8"
-			(uuid "751d03da-8c52-4510-8012-90996a16c7e4")
-		)
-		(pin "GND3"
-			(uuid "dcd6dd77-a56a-4c0a-9f41-fa182bf889e2")
-		)
-		(pin "VIN"
-			(uuid "b002d368-e766-42ac-ab5e-fe9aeb9e0426")
-		)
-		(pin "D9"
-			(uuid "af252637-4303-40ec-b644-f6e42b2e41c3")
-		)
-		(pin "RST1"
-			(uuid "be1f0412-8800-424c-adf6-019275117073")
-		)
-		(pin "D4"
-			(uuid "b3043902-780a-4973-a3b7-9e78c01e3eb5")
-		)
-		(pin "D13"
-			(uuid "e92920ae-0663-4cfb-8bc3-df6d3cd89969")
-		)
-		(pin "GND1"
-			(uuid "88ae0545-427c-4970-8918-99a5ab799593")
-		)
-		(pin "GND2"
-			(uuid "07bff33f-49ae-4dbc-a67c-508a6fc5a771")
-		)
-		(pin "D5"
-			(uuid "278ae0cf-efff-4690-92f1-b17cc5166ad9")
-		)
-		(pin "A0"
-			(uuid "7a3cdfe6-86ec-427b-8913-aa1b2131e0d9")
-		)
-		(pin "D10"
-			(uuid "65a7b89b-8507-480d-89f3-34f7b2b02dda")
-		)
-		(pin "D11"
-			(uuid "2ad6e08a-386e-46a4-abf7-59181816cb91")
-		)
-		(pin "D12"
-			(uuid "c94626bf-87ea-40b0-b05c-59c86f4f3fe1")
-		)
-		(pin "D2"
-			(uuid "558613b8-ad59-4d60-b622-c568b43f0dc9")
-		)
-		(pin "D3"
-			(uuid "5b67b948-f5ea-48b6-bab9-f92a9a862866")
-		)
-		(instances
-			(project "DFTBoard"
-				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "XA1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 93.98 100.33 180)
 		(unit 1)
@@ -29793,6 +27714,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "100k"
@@ -29892,74 +27814,6 @@
 				)
 				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
 					(reference "R81")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 64.77 86.36 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005e245f1f")
-		(property "Reference" "#PWR0173"
-			(at 62.484 86.36 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 62.484 86.36 0)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 86.36 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 86.36 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 64.77 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "235bdf17-9d59-4a08-8aec-32dd562fe532")
-		)
-		(instances
-			(project ""
-				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-000058508414"
-					(reference "#PWR?")
-					(unit 1)
-				)
-				(path "/49eba173-d38c-4d05-b21c-b4a14c4948c2/00000000-0000-0000-0000-00005c7c62ae"
-					(reference "#PWR0173")
 					(unit 1)
 				)
 			)
