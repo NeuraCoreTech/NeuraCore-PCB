@@ -155,7 +155,10 @@ Before fabrication:
 
 ## Contributors
 
-NeuraCoreTech Hardware Team
+-Krishna H. Patil
+-Mohit Singh 
+-Prajwal
+-Arnav Yadnopavit
 
 
 
