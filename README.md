@@ -155,10 +155,10 @@ Before fabrication:
 
 ## Contributors
 
--Krishna H. Patil
--Mohit Singh 
--Prajwal
--Arnav Yadnopavit
+- Krishna H. Patil
+- Mohit Singh 
+- Prajwal
+- Arnav Yadnopavit
 
 
 
